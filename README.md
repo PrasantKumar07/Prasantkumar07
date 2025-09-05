@@ -1,4 +1,4 @@
-# Hi there, I'm Prasant Kumar 👋  
+# I'm Prasant Kumar 👋  
 
 🎓 I’m a 3rd-year student passionate about **Data Science, Machine Learning, and AI**.  
 💡 I love solving problems using data and building models that can make real-world impact.  
@@ -8,7 +8,7 @@
 
 ### 🌱 About Me
 - 🔭 I’m currently working on **Machine Learning & Deep Learning projects**  
-- 🌱 Exploring **Data Engineering & Cloud** for scalable ML systems  
+- 🧩 Skilled in **Problem Solving & Analytical Thinking**
 - 👯 Looking to collaborate on **AI/ML projects and Hackathons**  
 - 💬 Ask me about **Python, Data Science, ML, Statistics, SQL, Visualization**  
 - 📫 Reach me at: **prashantsingh8578@gmail.com**  
